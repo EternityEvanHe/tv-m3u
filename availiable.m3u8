@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+http://123.129.70.178:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+http://111.14.181.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
+http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
+http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
+http://111.14.181.15:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14
+http://223.241.247.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14
+http://124.128.73.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15
+http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+http://124.128.73.58:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+http://61.138.128.226:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://111.61.236.247:9081/hls/44/index.m3u8
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://124.128.73.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://124.128.73.58:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+http://124.128.73.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
+http://124.128.73.58:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-9.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-11.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-10.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-23.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-17.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-19.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-5.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
+https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
+https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
+https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png",纬来体育
+https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
